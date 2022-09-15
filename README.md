@@ -4,4 +4,4 @@ my first repository on Github
 practicing Github 
 *italic*
 **bold**
-<sub)subscript</sub>
+<sub>subscript</sub>
