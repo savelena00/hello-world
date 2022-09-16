@@ -8,3 +8,7 @@ practicing Github
 
 
 ## EDIT
+
+**I added another thing**
+
+<sup>this is hard</sup>
